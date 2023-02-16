@@ -1,0 +1,44 @@
+{
+    "portfolio": [
+        {
+            "title": "Tasker",
+            "subtitle": "organizador de tarefas",
+            "paragraph1": "Este é um pequeno projeto inspirado no trello, nele é possível adicionar, editar e remover tarefas e colunas, assim como reposiciona-las.",
+            "paragraph2": "O projeto usa a biblioteca react-beautiful-dnd para fazer o efeito de drag-and-drop, e para armazenar os dados, utiliza uma API feita em NodeJS e os guarda em um banco de dados MySQL. Para fazer a conexão http foram utilizadas as bibliotecas: Axios, no front-end, e Express, no back-end."
+        },
+        {
+            "title": "Adriana Mazin",
+            "subtitle": "site de fotografia",
+            "paragraph1": "texto",
+            "paragraph2": "texto"
+        },
+        {
+            "title": "Thor clothing",
+            "subtitle": "e-commerce de roupas",
+            "paragraph1": "texto",
+            "paragraph2": "texto"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Comunicação",
+            "info": "Gosto muito de me comunicar e ainda mais com pessoas que tem diferentes pontos de vista, sempre visando chegar em um ponto que seja produtivo para ambas as partes."
+        },
+        {
+            "title": "Foco em crescer",
+            "info": "Procuro sempre me desenvolver como ser humano e como profissional, sempre procurando ser melhor do que era no dia anterior, focado em meus objetivos."
+        },
+        {
+            "title": "Organização",
+            "info": "Tanto em desenvolvimento quanto no meu local de trabalho, prezo pela organização, sempre mantendo um código limpo e um ambiente organizado."
+        },
+        {
+            "title": "Paixão pela área",
+            "info": "Amo o que faço e tenho certeza de que quero crescer na área, desde desenvolver em si até a maneira como tudo é feito, tudo me encanta e nunca enjoo de aprender coisas novas. "
+        },
+        {
+            "title": "Rápido aprendizado",
+            "info": "Desde pequeno sou familiarizado com tecnologia e desde os 13 estudo programação, o que me deixou muito familiarizado e com facilidade em aprender."
+        }
+    ]
+}
